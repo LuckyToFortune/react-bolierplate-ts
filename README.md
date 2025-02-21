@@ -3,7 +3,7 @@ This is a scalable boilerplate built with React.js and TypeScript, aimed at ente
 
 # Backend Support: 
 This frontend is paired with a fully integrated Node.js backend, providing a robust and synchronized full-stack setup for smooth development and deployment.
-### [Backend Repo](https://github.com/siddhant-ahire/node-boilerplate-ts)
+### [Backend Repo](https://github.com/LuckyToFortune/node-boilerplate-ts)
 
 ## Table of Contents
 1. [Features](#features)
